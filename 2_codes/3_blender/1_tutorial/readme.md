@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=83yNYScsRPI&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=1
 Part_1
 Blender  can be used for applications such as 3D printing and laser cutting. It allows us to create highly precise designs with dimensions measured in millimeters or even sub-millimeter units, with accuracy up to very fine decimal levels. Blender provides multiple tools that allow us to combine maker techniques and VFX workflows in a single platform. It supports different modeling approaches, including surface modeling, subdivision modeling, and organic modeling. It also includes precision modeling techniques, such as spiral/helix-based modeling. To work efficiently in Blender, it is important to understand its rules, tools, and workflows so that we can use the software easily and effectively and solve problems that may arise during the modeling process.  
 

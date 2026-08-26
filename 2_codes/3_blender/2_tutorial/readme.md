@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=qzhgrHDDR7I&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=2
   Part_2
   For customization, go to Edit → Preferences → Keymap to modify keyboard shortcuts and other settings. In the Interface section, the Resolution Scale can be increased to 1.25 to make the interface and line width more visible. After making the changes, click Save Preferences.  
   
