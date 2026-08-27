@@ -1,5 +1,4 @@
 ### Part 5 – Blender Mesh Modeling and Selection
-https://www.youtube.com/watch?v=vi6cQCnaM4A&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=5
 
 - In Blender, the **3D viewport** is used to work with objects and view the 3D scene from different angles.
 - Blender is a **3D modeling program** that provides a 3D space for creating and editing objects.
@@ -40,4 +39,3 @@ https://www.youtube.com/watch?v=vi6cQCnaM4A&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZz
 - Select the required geometry according to the operation you want to perform.
 - Different selection methods can be used to efficiently select a single element, a group of elements, or an entire loop.
 - These selection tools are important for efficiently editing and modifying a 3D mesh in Blender.
-  ![](attachments/Screenshot%202026-08-27%20at%202.01.32%20PM.png)![](attachments/Screenshot%202026-08-27%20at%202.02.36%20PM.png)![](attachments/Screenshot%202026-08-27%20at%202.24.05%20PM.png)![](attachments/Screenshot%202026-08-27%20at%202.37.20%20PM.png)![](attachments/Screenshot%202026-08-27%20at%202.40.11%20PM.png)![](attachments/Screenshot%202026-08-27%20at%203.38.24%20PM.png)![](attachments/Screenshot%202026-08-27%20at%203.49.25%20PM.png)![](attachments/Screenshot%202026-08-27%20at%204.28.15%20PM.png)
