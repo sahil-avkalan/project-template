@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=ezldKx-jPag&t=2203s
 **Part 2:**  
 On the left-hand side of the Toolbar, we have the **Frame (F)** tool. By clicking **Frame (F)**, we get options such as **Section**, **Slice (S)**, and **Frame**. After selecting Frame, we can draw a frame directly on the canvas by clicking and dragging.
 

@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=ezldKx-jPag&t=2203s
 part-4
 If we want to fill the entire frame with a rectangle, we can select the rectangle by grabbing its corner and adjusting its dimensions. After selecting the Rectangle tool, we can see its **Width** and **Height** on the right-hand side.
 

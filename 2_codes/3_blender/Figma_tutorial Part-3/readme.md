@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=ezldKx-jPag&t=2203s
 Part-3  
 Press Ctrl + D to duplicate a frame. To move around the canvas, we can use the Hand Tool (H). For zooming in and out, hold the Ctrl key and scroll the mouse wheel.  
   
