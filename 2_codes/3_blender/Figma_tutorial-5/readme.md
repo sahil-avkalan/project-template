@@ -26,3 +26,38 @@ String
 2)With String, we can select just one variable and add the text in the Value field using Continue.  
 3)By continuing this process, we can change the text for multiple variables.  
 4)In comparison, with a Component Property, we can make the text change for only one variable at a time.
+Boolean Variable  
+1) To create a Boolean variable, click Create Variable and select Boolean under Local Variables. Give the variable a name, such as Switch.  
+2) In the Canvas, select the feature or layer you want to control.  
+3)On the right-hand side, go to the Layers section and use the eye/visibility option to select and apply the Boolean variable.  
+3) The Boolean variable is used to control visibility and to trigger special actions in Prototype mode.  
+4) It is mainly useful for turning elements ON or OFF based on the Boolean value (True / False).
+   Styles vs. Variables — Difference  
+Styles  
+1)  In Styles, we have typeface, shadows, and colors.  
+5) If we go to Fill, click the + icon, and select Style, we can create a style.  
+3)By going to the Properties section and clicking +, we can add multiple layers to the style.  
+4)In Styles, we can create layering/combinations of properties.  
+Variables  
+1)In Variables, we need a concrete and specific individual value.  
+2)We can store values such as integers inside a variable.  
+6) Styles do not support aliases in the same way, and we cannot create multiple value variations within a single style.  
+7) With Variables, we can create multiple variations/values.  
+8) Variables also support scoping.  
+9) Variables can be used for text and strokes.  
+Example: Creating and Using a View Count Variable  
+step1)Go to Local Variables.  
+step2) Click Create collection.  
+step3) Click Create variable and select Number.  
+step4) Give the variable the name view-count.  
+step5) Set its value to 999.  
+step6) On the canvas, select the view layer.  
+step7) On the right-hand side, in the Text section, click the diamond icon.  
+step8) Select the view-count variable.  
+step9) Turn on Prototype mode.  
+step10) Under Interactions, click None.  
+step11) Select Set variables.  
+step12) Choose view-count.  
+step13) In the To field, enter view-count + 1.  
+step14) Press Enter.![](attachments/Screenshot%202026-09-18%20at%2011.02.11%20AM.png)
+![](attachments/Screenshot%202026-09-18%20at%2010.58.21%20AM.png)![](attachments/Screenshot%202026-09-18%20at%2010.57.40%20AM.png)![](attachments/Screenshot%202026-09-18%20at%2010.57.34%20AM.png)
