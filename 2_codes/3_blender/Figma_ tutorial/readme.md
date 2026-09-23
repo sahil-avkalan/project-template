@@ -1,0 +1,3 @@
+In this slot i have learned about component as reusable element that allowed to make change in a master component and  it automatically reflect in instance![](attachments/Screenshot%202026-09-23%20at%204.36.02%20PM.png)![](attachments/Screenshot%202026-09-23%20at%204.36.02%20PM%201.png)
+
+![](attachments/Screenshot%202026-09-23%20at%204.33.11%20PM.png)![](attachments/Screenshot%202026-09-23%20at%204.31.44%20PM.png)![](attachments/Screenshot%202026-09-23%20at%204.28.07%20PM.png)

@@ -1,5 +1,5 @@
 
-## Part 15 – Smart English Translation
+
 
 https://www.youtube.com/watch?v=WSJ8C9EZJG4&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=15
 ### 2D Projection, Face Selection, Normals, and Measurement
