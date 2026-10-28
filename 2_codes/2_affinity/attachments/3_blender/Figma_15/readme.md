@@ -1,0 +1,9 @@
+Text Tool: First, I used the Text Tool to add text for the button.
+
+Auto Layout: I applied Auto Layout to the text to create a properly structured button.
+
+Fill and Color: I used the Fill option to apply color to the button.
+
+Create Component: I clicked on Create Component to convert the button into a reusable component.
+
+Boolean Property: I used a Boolean property to control the visibility of the ellipse and arrow icons by switching their states between True and![](attachments/Screenshot%202026-10-28%20at%204.14.59%20PM.png) False.![](attachments/Screenshot%202026-10-28%20at%204.14.23%20PM.png)![](attachments/Screenshot%202026-10-28%20at%204.11.18%20PM.png)![](attachments/Screenshot%202026-10-28%20at%204.08.15%20PM.png)![](attachments/Screenshot%202026-10-28%20at%204.04.10%20PM.png)![](attachments/Screenshot%202026-10-28%20at%204.00.04%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.49.44%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.49.38%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.43.04%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.41.47%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.41.38%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.36.42%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.30.42%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.27.44%20PM.png)![](attachments/Screenshot%202026-10-28%20at%203.27.37%20PM.png)![](attachments/Screenshot%202026-10-28%20at%202.44.23%20PM.png)![](attachments/Screenshot%202026-10-28%20at%202.44.11%20PM.png)![](attachments/Screenshot%202026-10-28%20at%202.43.20%20PM.png)![](attachments/Screenshot%202026-10-28%20at%202.43.06%20PM.png)![](attachments/Screenshot%202026-10-28%20at%202.42.53%20PM.png)
