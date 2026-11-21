@@ -8,5 +8,6 @@
     "quote"
   ],
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "showRibbon": true
 }
